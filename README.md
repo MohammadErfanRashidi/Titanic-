@@ -46,7 +46,3 @@ This project aims to predict the survival of passengers on the Titanic using mac
 - Matplotlib
 - Seaborn
 - Scikit-learn (LogisticRegression, accuracy_score)
-
-## Author
-
-[Your Name]
